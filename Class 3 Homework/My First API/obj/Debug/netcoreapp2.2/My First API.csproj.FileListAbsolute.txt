@@ -1,0 +1,14 @@
+C:\Users\John\Documents\DevFolder\.Net\Class 3 Homework\My First API\bin\Debug\netcoreapp2.2\My First API.deps.json
+C:\Users\John\Documents\DevFolder\.Net\Class 3 Homework\My First API\bin\Debug\netcoreapp2.2\My First API.runtimeconfig.json
+C:\Users\John\Documents\DevFolder\.Net\Class 3 Homework\My First API\bin\Debug\netcoreapp2.2\My First API.runtimeconfig.dev.json
+C:\Users\John\Documents\DevFolder\.Net\Class 3 Homework\My First API\bin\Debug\netcoreapp2.2\My First API.dll
+C:\Users\John\Documents\DevFolder\.Net\Class 3 Homework\My First API\bin\Debug\netcoreapp2.2\My First API.pdb
+C:\Users\John\Documents\DevFolder\.Net\Class 3 Homework\My First API\obj\Debug\netcoreapp2.2\My First API.csprojAssemblyReference.cache
+C:\Users\John\Documents\DevFolder\.Net\Class 3 Homework\My First API\obj\Debug\netcoreapp2.2\My First API.csproj.CoreCompileInputs.cache
+C:\Users\John\Documents\DevFolder\.Net\Class 3 Homework\My First API\obj\Debug\netcoreapp2.2\My First API.RazorAssemblyInfo.cache
+C:\Users\John\Documents\DevFolder\.Net\Class 3 Homework\My First API\obj\Debug\netcoreapp2.2\My First API.RazorAssemblyInfo.cs
+C:\Users\John\Documents\DevFolder\.Net\Class 3 Homework\My First API\obj\Debug\netcoreapp2.2\My First API.AssemblyInfoInputs.cache
+C:\Users\John\Documents\DevFolder\.Net\Class 3 Homework\My First API\obj\Debug\netcoreapp2.2\My First API.AssemblyInfo.cs
+C:\Users\John\Documents\DevFolder\.Net\Class 3 Homework\My First API\obj\Debug\netcoreapp2.2\My First API.RazorTargetAssemblyInfo.cache
+C:\Users\John\Documents\DevFolder\.Net\Class 3 Homework\My First API\obj\Debug\netcoreapp2.2\My First API.dll
+C:\Users\John\Documents\DevFolder\.Net\Class 3 Homework\My First API\obj\Debug\netcoreapp2.2\My First API.pdb
