@@ -1,0 +1,14 @@
+C:\Users\John\Documents\DevFolder\.Net\Class 3 Homework\StudentAPI\bin\Debug\netcoreapp2.2\StudentAPI.deps.json
+C:\Users\John\Documents\DevFolder\.Net\Class 3 Homework\StudentAPI\bin\Debug\netcoreapp2.2\StudentAPI.runtimeconfig.json
+C:\Users\John\Documents\DevFolder\.Net\Class 3 Homework\StudentAPI\bin\Debug\netcoreapp2.2\StudentAPI.runtimeconfig.dev.json
+C:\Users\John\Documents\DevFolder\.Net\Class 3 Homework\StudentAPI\bin\Debug\netcoreapp2.2\StudentAPI.dll
+C:\Users\John\Documents\DevFolder\.Net\Class 3 Homework\StudentAPI\bin\Debug\netcoreapp2.2\StudentAPI.pdb
+C:\Users\John\Documents\DevFolder\.Net\Class 3 Homework\StudentAPI\obj\Debug\netcoreapp2.2\StudentAPI.csprojAssemblyReference.cache
+C:\Users\John\Documents\DevFolder\.Net\Class 3 Homework\StudentAPI\obj\Debug\netcoreapp2.2\StudentAPI.csproj.CoreCompileInputs.cache
+C:\Users\John\Documents\DevFolder\.Net\Class 3 Homework\StudentAPI\obj\Debug\netcoreapp2.2\StudentAPI.RazorAssemblyInfo.cache
+C:\Users\John\Documents\DevFolder\.Net\Class 3 Homework\StudentAPI\obj\Debug\netcoreapp2.2\StudentAPI.RazorAssemblyInfo.cs
+C:\Users\John\Documents\DevFolder\.Net\Class 3 Homework\StudentAPI\obj\Debug\netcoreapp2.2\StudentAPI.AssemblyInfoInputs.cache
+C:\Users\John\Documents\DevFolder\.Net\Class 3 Homework\StudentAPI\obj\Debug\netcoreapp2.2\StudentAPI.AssemblyInfo.cs
+C:\Users\John\Documents\DevFolder\.Net\Class 3 Homework\StudentAPI\obj\Debug\netcoreapp2.2\StudentAPI.RazorTargetAssemblyInfo.cache
+C:\Users\John\Documents\DevFolder\.Net\Class 3 Homework\StudentAPI\obj\Debug\netcoreapp2.2\StudentAPI.dll
+C:\Users\John\Documents\DevFolder\.Net\Class 3 Homework\StudentAPI\obj\Debug\netcoreapp2.2\StudentAPI.pdb
