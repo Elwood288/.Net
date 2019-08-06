@@ -1,0 +1,14 @@
+C:\Users\John\Documents\DevFolder\.Net\Class 3 Homework\BookAPI\bin\Debug\netcoreapp2.2\BookAPI.deps.json
+C:\Users\John\Documents\DevFolder\.Net\Class 3 Homework\BookAPI\bin\Debug\netcoreapp2.2\BookAPI.runtimeconfig.json
+C:\Users\John\Documents\DevFolder\.Net\Class 3 Homework\BookAPI\bin\Debug\netcoreapp2.2\BookAPI.runtimeconfig.dev.json
+C:\Users\John\Documents\DevFolder\.Net\Class 3 Homework\BookAPI\bin\Debug\netcoreapp2.2\BookAPI.dll
+C:\Users\John\Documents\DevFolder\.Net\Class 3 Homework\BookAPI\obj\Debug\netcoreapp2.2\BookAPI.csprojAssemblyReference.cache
+C:\Users\John\Documents\DevFolder\.Net\Class 3 Homework\BookAPI\obj\Debug\netcoreapp2.2\BookAPI.csproj.CoreCompileInputs.cache
+C:\Users\John\Documents\DevFolder\.Net\Class 3 Homework\BookAPI\obj\Debug\netcoreapp2.2\BookAPI.RazorAssemblyInfo.cache
+C:\Users\John\Documents\DevFolder\.Net\Class 3 Homework\BookAPI\obj\Debug\netcoreapp2.2\BookAPI.RazorAssemblyInfo.cs
+C:\Users\John\Documents\DevFolder\.Net\Class 3 Homework\BookAPI\obj\Debug\netcoreapp2.2\BookAPI.AssemblyInfoInputs.cache
+C:\Users\John\Documents\DevFolder\.Net\Class 3 Homework\BookAPI\obj\Debug\netcoreapp2.2\BookAPI.AssemblyInfo.cs
+C:\Users\John\Documents\DevFolder\.Net\Class 3 Homework\BookAPI\obj\Debug\netcoreapp2.2\BookAPI.RazorTargetAssemblyInfo.cache
+C:\Users\John\documents\devfolder\.Net\Class 3 Homework\BookAPI\bin\Debug\netcoreapp2.2\BookAPI.pdb
+C:\Users\John\documents\devfolder\.Net\Class 3 Homework\BookAPI\obj\Debug\netcoreapp2.2\BookAPI.dll
+C:\Users\John\documents\devfolder\.Net\Class 3 Homework\BookAPI\obj\Debug\netcoreapp2.2\BookAPI.pdb

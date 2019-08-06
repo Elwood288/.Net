@@ -4,6 +4,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations;
 
+
+
 namespace StudentAPI.Models
 {
     public class Student
@@ -15,6 +17,7 @@ namespace StudentAPI.Models
         public string LastName { get; set; }
         [Required]
         [DataType(DataType.Date)]
+        [SchoolAge(6,18)]
         public DateTime BirthDate { get; set; }
         [Required]
         [EmailAddress]
