@@ -10,12 +10,12 @@ namespace BookAPI.Models
     {
         public int Id { get; set; }
         [Required]
-       [MaxLength(250,ErrorMessage = "The maximum length of the title is 250 characters.")]
+        [MaxLength(250,ErrorMessage = "The maximum length of the title is 250 characters.")]
         public string Title { get; set; }
         [Required]
-        public string Author { get; set; }
+        public int AuthorId { get; set; }
         [Required]
-        public string Category { get; set; }
+        public Author Author;
 
     }
 }

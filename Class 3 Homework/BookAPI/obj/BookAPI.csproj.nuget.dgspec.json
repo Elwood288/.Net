@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\John\\documents\\devfolder\\.Net\\Class 3 Homework\\BookAPI\\BookAPI.csproj": {}
+    "C:\\Users\\John\\Documents\\DevFolder\\.Net\\Class 3 Homework\\BookAPI\\BookAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\John\\documents\\devfolder\\.Net\\Class 3 Homework\\BookAPI\\BookAPI.csproj": {
+    "C:\\Users\\John\\Documents\\DevFolder\\.Net\\Class 3 Homework\\BookAPI\\BookAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\John\\documents\\devfolder\\.Net\\Class 3 Homework\\BookAPI\\BookAPI.csproj",
+        "projectUniqueName": "C:\\Users\\John\\Documents\\DevFolder\\.Net\\Class 3 Homework\\BookAPI\\BookAPI.csproj",
         "projectName": "BookAPI",
-        "projectPath": "C:\\Users\\John\\documents\\devfolder\\.Net\\Class 3 Homework\\BookAPI\\BookAPI.csproj",
+        "projectPath": "C:\\Users\\John\\Documents\\DevFolder\\.Net\\Class 3 Homework\\BookAPI\\BookAPI.csproj",
         "packagesPath": "C:\\Users\\John\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\John\\documents\\devfolder\\.Net\\Class 3 Homework\\BookAPI\\obj\\",
+        "outputPath": "C:\\Users\\John\\Documents\\DevFolder\\.Net\\Class 3 Homework\\BookAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
